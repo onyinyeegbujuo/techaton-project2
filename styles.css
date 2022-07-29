@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+     
+}
+body{
+    background-image: url(images/bg-desktop.svg);
+background-color: hsl(257, 40%, 49%);
+}
+   .head{
+    margin: 25px;
+   }
+   .head img{
+    height: 25px;
+    margin: 10px 0 0 25px;
+   }
+   .sections{
+    display: flex;
+    margin: 30px 20px 10px 46px;
+   }
+   .section-a img{
+     height: 310px;
+     margin: 10px 0 0 0;
+   }
+   .section-b{
+     margin: 55px 0 10px 45px;
+   }
+   .section-b h3{
+    font-family: 'poppins', sans-serif;
+    line-height: 1.5;
+    color: rgb(234, 232, 232);
+     
+   }
+   .section-b p{
+    margin: 23px 0 0 0;
+    font-family: 'open+san', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color:rgb(234, 232, 232) ;
+     
+   }
+    .btn{
+      margin: 20px 0 0 0;
+      width: 30%;
+      height:30px;
+      border: none;
+      border-radius: 15px;
+      background-color: hsl(300, 69%, 71%);
+      color: rgb(203, 194, 194);
+    }
+    .foot {
+      margin: 25px 120px 0 0;
+      display: flex;
+        justify-content: flex-end;
+
+    }
+    .fa-brands{
+      padding: 10px;
+       color: rgb(216, 210, 210);
+    }
+        
+      
